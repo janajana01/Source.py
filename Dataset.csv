@@ -1,0 +1,5 @@
+Variable Name,Role,Type,Demographic,Description,Units,Missing Values
+slope,Feature,Categorical,,,,no
+ca,Feature,Integer,,number of major vessels (0-3) colored by flourosopy,,yes
+thal,Feature,Categorical,,,,yes
+num,Target,Integer,,diagnosis of heart disease,,no
